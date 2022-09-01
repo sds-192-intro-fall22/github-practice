@@ -22,7 +22,7 @@ output:
     code_folding: show
 ---
 
-Add a title here
+
 
 ```{r}
 #Load the ggplot library here.
