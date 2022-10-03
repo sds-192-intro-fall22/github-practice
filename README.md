@@ -1,3 +1,3 @@
 * Lindsay Poirier
-* ADD NAME 2 HERE
+* Jane Doe
 * ADD NAME 3 HERE
